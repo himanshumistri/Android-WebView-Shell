@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_picker_border_color">#ffb0b0b0</color>
+    <color name="color_picker_background_color">#ffffffff</color>
+    <color name="autofill_divider_color">#ffe5e5e5</color>
+    <color name="autofill_dark_divider_color">#ffc0c0c0</color>
+</resources>
